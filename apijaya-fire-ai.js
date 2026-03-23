@@ -4,7 +4,7 @@
    ================================================ */
 
 /* ── Link tujuan tombol "Main Sekarang" ── */
-const APJ_PLAY_URL = "https://picx.space/images/2026/03/22/My-Video.gif";
+const APJ_PLAY_URL = "/";
 
 /* ── Gambar AI Cards ── */
 const APJ_CARDS = [
